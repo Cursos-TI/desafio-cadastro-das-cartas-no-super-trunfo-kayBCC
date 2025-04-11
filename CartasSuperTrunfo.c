@@ -26,6 +26,17 @@ int main() {
     int pontosturisticos1;
     float densidade1, pibpercapital1, superpoder1;
 
+    char estador2;
+    char codigo2[4];
+    char cidade2[50];
+    unsigned long int populaçao2;
+    float area2, pib2;
+    int pontosturisticos2;
+    float densidade2, pibpercapital2, superpoder2;
+
+    
+
+
     
 
    
