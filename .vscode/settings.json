@@ -1,0 +1,7 @@
+{
+    "cmake.sourceDirectory": "/workspaces/desafio-cadastro-das-cartas-no-super-trunfo-kayBCC",
+    "cmake.ignoreCMakeListsMissing": true,
+    "githubPullRequests.ignoredPullRequestBranches": [
+        "main"
+    ]
+}
